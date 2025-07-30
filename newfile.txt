@@ -1,1 +1,2 @@
-hello world
+Hello World
+The little lemon restaurant django web application for food ordering and table booking
